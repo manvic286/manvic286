@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫About Me
-👋 Hi. I'm Manuel, a student, web developer and programmer.
+👋 Hi. I'm Manuel, a student, web developer and programmer.<br>
 👯 I’m looking to collaborate on any project to help sharpen my skills.
 
 ## 🌐Socials
