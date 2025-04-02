@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫About Me :
-Hi. I'm Manuel, a student, web developer and programmer.
+# 💫About Me
+👋 Hi. I'm Manuel, a student, web developer and programmer.
+👯 I’m looking to collaborate on any project to help sharpen my skills.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manuel_viotor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manuel-viotor-5329aa249/) 
