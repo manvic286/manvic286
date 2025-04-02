@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫About Me :
-small time web developer and programmer
+Hi. I'm Manuel, a student, web developer and programmer.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manuel_viotor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manuel-viotor-5329aa249/) 
