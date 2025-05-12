@@ -15,9 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫About Me
-👋 Hi. I'm Manuel, a student, web developer and programmer.<br>
-👯 I’m looking to collaborate on any project to help sharpen my skills.
+# 💫 About Me
+
+🔭 I'm currently working on various technologies, exploring whichever field I'm interested in.
+🌱 I'm currently learning backend and frontend technologies for web.
+👯 I'm looking to collaborate on projects which may have an impact, or can be challenging but fun.
+💬 My hobbies include reading, gaming, coding and art(on the side).
+📫 How to reach me: manuelviotor@gmail.com
+⚡ Fun fact: No fun fact for now. LOCK IN!!!
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manuel_viotor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manuel-viotor-5329aa249/) 
@@ -37,3 +42,14 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=manvic286&icon=0&color=0)](https://visitcount.itsvg.in)
+
+📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manvic286&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
+<p align="center">
+  <i>Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on a project.</i>
+</p>
