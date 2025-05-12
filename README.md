@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 🌱 I'm currently learning backend and frontend technologies for web.<br>
 👯 I'm looking to collaborate on projects which may have an impact, or can be challenging but fun.<br>
 💬 My hobbies include reading, gaming, coding and art(on the side).<br>
-📫 How to reach me: manuelviotor@gmail.com<br>
+📫 You can reach me on <a href="mailto:manuelviotor@gmail.com">manuelviotor@gmail.com</a><br>
 ⚡ Fun fact: No fun fact for now. LOCK IN!!!<br>
 
 ## 🌐Socials
